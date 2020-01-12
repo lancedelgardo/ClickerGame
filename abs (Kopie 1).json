@@ -1,0 +1,28 @@
+{
+    "Abilitys": [
+        {
+            "AbilityName": "Ab1",
+            "AbilityValue": 1,
+            "ID": 0,
+            "Unlocked": true
+        },
+        {
+            "AbilityName": "AB2",
+            "AbilityValue": 0.25,
+            "ID": 1,
+            "Unlocked": true
+        },
+        {
+            "AbilityName": "AB3",
+            "AbilityValue": 1,
+            "ID": 2,
+            "Unlocked": false
+        },
+        {
+            "AbilityName": "AB4",
+            "AbilityValue": 1,
+            "ID": 3,
+            "Unlocked": false
+        }
+    ]
+}
